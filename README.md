@@ -1,3 +1,7 @@
+
+THE FULL PROJECT CAN BE FOUND AT: https://github.com/William-B01649474/babylonJSdev
+
+
 # BabylonJS Project: Five Scenes of Basic Functions
 
 Welcome to the **My First JavaScript Project**, where we explore five unique scenes showcasing the core features and functionalities of the BabylonJS library. Each scene demonstrates different concepts like lighting, animation, GUI integration, and interactions, providing a foundation for learning 3D web development.
